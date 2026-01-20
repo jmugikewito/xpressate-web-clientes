@@ -1,0 +1,7 @@
+{
+  "name": "XPRESSATE Web Clientes",
+  "description": "SAAS para la mejora continua entre personas y empresas. Gestión de suscripciones, feedback con IA y analítica avanzada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
